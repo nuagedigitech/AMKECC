@@ -54,7 +54,7 @@
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
-  background-image: url('../images/ashim-d-silva-95244-unsplash-copy.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .58), rgba(0, 0, 0, .58)), url('../images/ashim-d-silva-95244-unsplash-copy.jpg');
   background-position: bottom right;
   background-size: cover;
   background-repeat: no-repeat;
